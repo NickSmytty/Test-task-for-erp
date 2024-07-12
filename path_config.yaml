@@ -1,0 +1,3 @@
+paths:
+  reference_pdf: "reference_pdf/test_task.pdf"
+  generated_pdfs: "generated_pdfs/"
